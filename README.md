@@ -3,7 +3,7 @@ UNIX:
 --------------------------------------------------------------------------------
 In top level dir where pom.xml is located
 
-create runnable jar as follows:
+create a runnable jar as follows:
 
 mvn package
 
@@ -24,7 +24,7 @@ WINDOWS:
 --------------------------------------------------------------------------------
 In top level dir where pom.xml is located
 
-create runnable jar as follows:
+create a runnable jar as follows:
 
 mvn package
 
